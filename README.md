@@ -1,3 +1,3 @@
 # proyecto_educativo_PREUING
 
-Proyecto en progreso, que busca poder facilitar el registro de datos importantes para el Preuniversitario Social de Ingeniería UC, con la finalidad de poder llevar un seguimiento de avance, además de evaluar posibles fallas en distintos ámbitos, proporcionando una oportunidad de mejora. 
+Proyecto en desarrollo cuyo objetivo es facilitar el registro de datos relevantes del Preuniversitario Social de Ingeniería UC, con el fin de llevar un seguimiento claro y sistemático del progreso en la preparación PAES. Además, busca identificar posibles fallas en distintos ámbitos y transformarlas en oportunidades concretas de mejora continua.
